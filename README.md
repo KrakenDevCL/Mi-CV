@@ -6,4 +6,4 @@
 ---
 
 ## 📂 Archivos
-- **[JAGC_CV.pdf](/CV_JoseGallegos_Desarrollador.pdf)**: Versión descargable.
+- **[CV_JoseGallegos_Desarrollador.pdf](/CV_JoseGallegos_Desarrollador.pdf)**: Versión descargable.
